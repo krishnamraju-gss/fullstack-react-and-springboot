@@ -727,3 +727,7 @@ psd
 thumb
 sketch
 
+source-code/fullstack-library-app/01-starter-files/Scripts/.dbeaver/data-sources.json
+source-code/fullstack-library-app/01-starter-files/Scripts/.dbeaver/credentials-config.json
+source-code/fullstack-library-app/01-starter-files/Scripts/.dbeaver/project-metadata.json
+source-code/fullstack-library-app/01-starter-files/Scripts/.dbeaver/project-settings.json
